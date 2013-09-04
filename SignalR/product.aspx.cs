@@ -10,6 +10,11 @@ namespace SignalR
 {
     public partial class product : System.Web.UI.Page
     {
+        /// <summary>
+        /// Test comment to test the data
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
