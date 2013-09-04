@@ -11,7 +11,6 @@ namespace SignalR
     {
         /// <summary>
         /// summary of method
-        /// <Created_by>Keyur Satyadev/Created_by>
         /// <Created_Date>04/09/2013</Created_Date>
         /// <Class_Details></Class_Details>
         /// <Modified_By></Modified_By>
