@@ -11,7 +11,7 @@ namespace SignalR
     public partial class product : System.Web.UI.Page
     {
         /// <summary>
-        ///Page Load event to display the items
+        ///Final comments. 
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
