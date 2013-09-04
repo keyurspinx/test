@@ -11,7 +11,7 @@ namespace SignalR
     public partial class product : System.Web.UI.Page
     {
         /// <summary>
-        /// Test comment to test the data
+        ///comment to make changes and review updates on another machine. 
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
